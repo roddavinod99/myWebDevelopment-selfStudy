@@ -1,3 +1,7 @@
-# myWebDevelopment-selfStudy
-This repository contains all my web development commits reguarding what I learned form time to time when I have time ot learn web development. The Days may vary because of not having time available for me to commit it to the GitHub.
-I will do the commits in bulk like once every two or three days as i need to leaarn two or three concepts to make a commit since it can be way too munch for my laptop to make the commits for every day.
+# Readme Report of the timeline of my Web Development self study course
+
+Day 1:
+
+On the first day I installed all the tools required for the Web Development self study such like VsCode, extensions and other tools that are mentioned in the course resource list.
+
+For more Details [click](Day 1\Day 1.md)
